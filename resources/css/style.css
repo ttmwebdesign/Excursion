@@ -2,6 +2,7 @@ body {
   background-color: #000;
   color: #fff;
   font-family: Verdana;
+  text-align: center;
 }
 
 #main {
@@ -27,14 +28,11 @@ h4  {
   color: gray;
 }
 
-h1, h2, h4, p  {
-  text-align: center;
-}
 p img, p video {
   display: block;
   margin: 0 auto;
 }
-.copy {
+footer {
   text-align: right;
   color: gray;
 }
